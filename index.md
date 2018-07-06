@@ -3,7 +3,7 @@
 I am a full stack .NET Developer with 3+ years of experience in Healthcare and Petrochemical domains. I am very passionate about software development and always willing to learn new technologies in an ever-changing tech world. My focus on execution while delivering high-quality, low-defect solutions within deadlines has helped me achieve success in both a small and a big corporate work environment. My past work experiences have helped me gain knowledge of every step in SDLC.
 
 ### Worked on/as/with
-**Ecommerce Website - Personal project ([Project](https://github.com/kaurgurpal/EcommerceWebsite))**
+**Ecommerce Website - ([Personal Project](https://github.com/kaurgurpal/EcommerceWebsite))**
 * Developing e-commerce website using ASP.NET MVC, C#, SQL Server, HTML, CSS, JavaScript, Bootstrap
 
 **Software Developer @[Truggo](https://www.linkedin.com/company/truggoapp) (Jun 2015 - Dec 2016)**
