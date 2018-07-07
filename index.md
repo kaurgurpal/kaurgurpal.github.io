@@ -1,13 +1,13 @@
 ## Overview
 
-I am a full stack .NET Developer with 3+ years of experience in Healthcare and Petrochemical domains. I am very passionate about software development and always willing to learn new technologies in an ever-changing tech world. My focus on execution while delivering high-quality, low-defect solutions within deadlines has helped me achieve success in both a small and a big corporate work environment. My past work experiences have helped me gain knowledge of every step in SDLC.
+I am a full stack .NET Developer with 3+ years of experience in Healthcare and Petrochemical domains. I am very passionate about software development and always willing to learn new technologies in an ever-changing tech world. My focus on execution while delivering high-quality, low-defect solutions within deadlines has helped me achieve success in both a small and a big corporate work environment. My past work experience has helped me gain knowledge of every step in SDLC.
 
 ### Worked on/as/with
 **Ecommerce Website - ([Personal Project](https://github.com/kaurgurpal/EcommerceWebsite))**
-* Developing e-commerce website using ASP.NET MVC, C#, SQL Server, HTML, CSS, JavaScript, Bootstrap
+* Developing an e-commerce website using ASP.NET MVC, C#, SQL Server, HTML, CSS, JavaScript, Bootstrap
 
 **Software Developer @[Truggo](https://www.linkedin.com/company/truggoapp) (Jun 2015 - Dec 2016)**
-* Developed website for Truggo - a beauty and wellness startup 
+* Developed a website for Truggo - a beauty and wellness startup 
 * Responsible for maintenance and updating databases
 * Created an IT roadmap by understanding the business process of beauty and wellness marketplace 
 
@@ -23,7 +23,7 @@ I am a full stack .NET Developer with 3+ years of experience in Healthcare and P
 
 **Software Developer  @[VSA India Pvt. Ltd.](http://www.vsaindia.com/)  Client @[HCRG](http://www.hcrg.com/) (Aug 2011 - Oct 2012)**
 
-VSA India is a sister concern company under same ownership of Health Care Resource Group, and the development team at VSA               India handles all the IT projects of HCRG as an offshore unit. Developed a reporting module and request raising forms module             for MedSpectra-Utilization Review (MSUR) system which evaluates treatment requests for medical necessities and                           appropriateness and makes diagnosis-relevant decisions designed to expedite care, prevent delays, obtain clinical outcomes,             and be cost-effective. Also worked on support work for Advanced Bill Review system. 
+VSA India is a sister concern company under same ownership of Health Care Resource Group, and the development team at VSA               India handles all the IT projects of HCRG as an offshore unit. 
 * Worked on MedSpectra – Bill Review and Utilization Review, a comprehensive medical cost management web-based solution 
 * Developed patient section in first iteration of Utilization Review solution for HCRG UK 
 * Integrated government provided web services to fetch patient information
